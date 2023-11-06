@@ -1,0 +1,51 @@
+export const ReceivedtDatas = [
+    {
+        id: 1,
+        product_id: 1,
+        qty: 10,
+        price: 10000.00,
+        description: 'ສະເປີນເຊີ ມີການຳເຂົ້າຈາກ ໂຮງງານ Sponsor',
+    },
+    {
+        id: 2,
+        product_id: 2,
+        qty: 10,
+        price: 6000.00,
+        description: 'ເປບຊີ ມີການຳເຂົ້າຈາກ ໂຮງງານ ຜະລິດເປບຊີ ຈຳກັດ ',
+    },
+    {
+        id: 3,
+        product_id: 3,
+        qty: 10,
+        price: 6000.00,
+        description: 'ນໍ້າໝາກພ້າວ ມີການຳເຂົ້າຈາກ ໂຮງງານ ຜະລິດນໍ້າໝາກພ້າວ ຈຳກັດ',
+    },
+    {
+        id: 4,
+        product_id: 4,
+        qty: 10,
+        price: 90000.00,
+        description: 'ສະຕິງ ມີການຳເຂົ້າຈາກ ໂຮງງານ Sting',
+    },
+    {
+        id: 5,
+        product_id: 5,
+        qty: 10,
+        price: 1000.00,
+        description: 'ບິກ',
+    },
+    {
+        id: 6,
+        product_id: 6,
+        qty: 10,
+        price: 2000.00,
+        description: 'ປື້ມ',
+    },
+    {
+        id: 7,
+        product_id: 7,
+        qty: 10,
+        price: 200000.00,
+        description: 'ໝໍ້ຫຸງເຂົ້າ ມີການຳເຂົ້າຈາກ ປະເທດໄທ',
+    },
+];
